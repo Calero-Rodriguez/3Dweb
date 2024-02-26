@@ -22,4 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Envvariables y package-lock
 pnpm-lock.yaml
+package-lock.json
+.env
